@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Laíse Vieira Alves 🖐 Seja muito bem-vinda(o) ao meu perfil 😄 
  
-### Tenho 28 anos, atualmente em transição de carreira. Sou apaixonada por tecnologia, principalmente aqueleas que envolvem o mercado de Blockchain como: DEFI, NFT'S, DAOS, Cryptos e etc. 
+### Tenho 28 anos, atualmente em transição de carreira. Sou apaixonada por tecnologia, principalmente aquelas que envolvem o mercado de Blockchain como: DEFI, NFT'S, DAOS, Cryptos e etc. 
 
 ## Hard Skills:
 
