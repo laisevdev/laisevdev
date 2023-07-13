@@ -4,18 +4,24 @@
 
 ## Hard Skills:
 
-<div style= "display: inline"> 
-    <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<div>
+ <div> 
+     <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ </div>
+ <div> 
+     <img alt="css3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ </div>
+ <div> 
+     <img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ </div>
+ <div > 
+ <img alt= "ReactJS" src= "https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"/>
+ </div>
+  <div > 
+ <img alt= "Solidity" src= "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+ </div>
 </div>
-<div style= "display: inline"> 
-    <img alt="css3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-<div style= "display: inline"> 
-    <img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div>
-<div style= "display: inline"> 
-<img alt= "ReactJS" src= "https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"/>
-</div>
+
 
 
 <picture>
