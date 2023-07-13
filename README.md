@@ -1,26 +1,14 @@
 ### Olá! Eu sou a Laíse Vieira Alves 🖐 Seja muito bem-vinda(o) ao meu perfil 😄 
  
-### Tenho 28 anos, atualmente em transição de carreira. Sou apaixonada por tecnologia, principalmente aquelas que envolvem o mercado de Blockchain, como: DEFI, NFT'S, DAOS, Cryptos e etc. 
+### Tenho 28 anos e sou apaixonada por tecnologia, principalmente aquelas que envolvem o mercado de Blockchain, como: DEFI, NFT'S, DAOS, Cryptos e etc. 
 
 ## Hard Skills:
 
-<div>
- <div> 
-     <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- </div>
- <div> 
-     <img alt="css3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- </div>
- <div> 
-     <img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
- </div>
- <div > 
- <img alt= "ReactJS" src= "https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"/>
- </div>
-  <div > 
- <img alt= "Solidity" src= "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
- </div>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![REACTJS](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) 
+![SOLIDITY](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 
 
