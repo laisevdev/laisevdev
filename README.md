@@ -2,6 +2,10 @@
  
 ### Uma pessoa apaixonada por tecnologia, principalmente aquelas que envolvem o mercado de Blockchain, como: DEFI, NFT'S, DAOS, Cryptos e etc. 
 
+### Hello! I am Laíse Vieira Alves 🖐 Welcome to my profile 😄
+
+### I am a person passionate about technology, especially those involving the Blockchain market, such as: DEFI, NFTs, DAOs, Cryptos, and so on.
+
 ## Hard Skills:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
