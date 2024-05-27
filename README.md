@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Laíse Vieira Alves 🖐 Seja muito bem-vinda(o) ao meu perfil 😄 
  
 ### Uma pessoa apaixonada por tecnologia, principalmente aquelas que envolvem o mercado de Blockchain, como: DEFI, NFT'S, DAOS, Cryptos e etc. 
-
+_______________________________________________________________________________________________________________________________________________
 ### Hello! I am Laíse Vieira Alves 🖐 Welcome to my profile 😄
 
 ### I am a person passionate about technology, especially those involving the Blockchain market, such as: DEFI, NFTs, DAOs, Cryptos, and so on.
